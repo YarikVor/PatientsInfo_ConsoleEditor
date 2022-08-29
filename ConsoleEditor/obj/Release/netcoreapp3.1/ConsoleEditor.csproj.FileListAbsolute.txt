@@ -1,0 +1,5 @@
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleEditor\obj\Release\netcoreapp3.1\ConsoleEditor.csproj.AssemblyReference.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleEditor\obj\Release\netcoreapp3.1\ConsoleEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleEditor\obj\Release\netcoreapp3.1\ConsoleEditor.AssemblyInfoInputs.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleEditor\obj\Release\netcoreapp3.1\ConsoleEditor.AssemblyInfo.cs
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleEditor\obj\Release\netcoreapp3.1\ConsoleEditor.csproj.CoreCompileInputs.cache

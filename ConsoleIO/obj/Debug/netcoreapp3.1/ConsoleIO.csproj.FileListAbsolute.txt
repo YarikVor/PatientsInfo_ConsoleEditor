@@ -1,0 +1,10 @@
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.csproj.AssemblyReference.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.AssemblyInfoInputs.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.AssemblyInfo.cs
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.deps.json
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.pdb
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.pdb

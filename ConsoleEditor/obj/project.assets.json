@@ -1,0 +1,194 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleFormat/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PatientsInfo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleFormat.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleFormat.dll": {}
+        }
+      },
+      "ConsoleIO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ConsoleIO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleIO.dll": {}
+        }
+      },
+      "FileIO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PatientsInfo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FileIO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileIO.dll": {}
+        }
+      },
+      "Methods/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Methods.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Methods.dll": {}
+        }
+      },
+      "PatientsInfo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Methods": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PatientsInfo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PatientsInfo.dll": {}
+        }
+      },
+      "RegexExpressions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RegexExpressions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RegexExpressions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleFormat/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleFormat/ConsoleFormat.csproj",
+      "msbuildProject": "../ConsoleFormat/ConsoleFormat.csproj"
+    },
+    "ConsoleIO/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleIO/ConsoleIO.csproj",
+      "msbuildProject": "../ConsoleIO/ConsoleIO.csproj"
+    },
+    "FileIO/1.0.0": {
+      "type": "project",
+      "path": "../XMLFileIO/FileIO.csproj",
+      "msbuildProject": "../XMLFileIO/FileIO.csproj"
+    },
+    "Methods/1.0.0": {
+      "type": "project",
+      "path": "../Methods/Methods.csproj",
+      "msbuildProject": "../Methods/Methods.csproj"
+    },
+    "PatientsInfo/1.0.0": {
+      "type": "project",
+      "path": "../PatientsInfo/PatientsInfo.csproj",
+      "msbuildProject": "../PatientsInfo/PatientsInfo.csproj"
+    },
+    "RegexExpressions/1.0.0": {
+      "type": "project",
+      "path": "../RegexExpressions/RegexExpressions.csproj",
+      "msbuildProject": "../RegexExpressions/RegexExpressions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ConsoleFormat >= 1.0.0",
+      "ConsoleIO >= 1.0.0",
+      "FileIO >= 1.0.0",
+      "Methods >= 1.0.0",
+      "PatientsInfo >= 1.0.0",
+      "RegexExpressions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yarik\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleEditor\\ConsoleEditor.csproj",
+      "projectName": "ConsoleEditor",
+      "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleEditor\\ConsoleEditor.csproj",
+      "packagesPath": "C:\\Users\\yarik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleEditor\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\yarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleFormat\\ConsoleFormat.csproj": {
+              "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleFormat\\ConsoleFormat.csproj"
+            },
+            "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleIO\\ConsoleIO.csproj": {
+              "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleIO\\ConsoleIO.csproj"
+            },
+            "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\Methods\\Methods.csproj": {
+              "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\Methods\\Methods.csproj"
+            },
+            "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\PatientsInfo.csproj": {
+              "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\PatientsInfo.csproj"
+            },
+            "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\RegexExpressions\\RegexExpressions.csproj": {
+              "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\RegexExpressions\\RegexExpressions.csproj"
+            },
+            "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\XMLFileIO\\FileIO.csproj": {
+              "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\XMLFileIO\\FileIO.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
